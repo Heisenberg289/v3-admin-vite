@@ -40,7 +40,7 @@
   </div>
 </template>
 
-<script setup>
+<script lang="js" setup>
 import { ref } from "vue"
 import { ElMessage } from "element-plus"
 
